@@ -1,0 +1,14 @@
+C:\Users\Yesica Moreno\source\repos\E34_BinarioADecimal\E34_BinarioADecimal\bin\Debug\E34_BinarioADecimal.exe.config
+C:\Users\Yesica Moreno\source\repos\E34_BinarioADecimal\E34_BinarioADecimal\bin\Debug\E34_BinarioADecimal.exe
+C:\Users\Yesica Moreno\source\repos\E34_BinarioADecimal\E34_BinarioADecimal\bin\Debug\E34_BinarioADecimal.pdb
+C:\Users\Yesica Moreno\source\repos\E34_BinarioADecimal\E34_BinarioADecimal\obj\Debug\E34_BinarioADecimal.csprojAssemblyReference.cache
+C:\Users\Yesica Moreno\source\repos\E34_BinarioADecimal\E34_BinarioADecimal\obj\Debug\E34_BinarioADecimal.csproj.CoreCompileInputs.cache
+C:\Users\Yesica Moreno\source\repos\E34_BinarioADecimal\E34_BinarioADecimal\obj\Debug\E34_BinarioADecimal.exe
+C:\Users\Yesica Moreno\source\repos\E34_BinarioADecimal\E34_BinarioADecimal\obj\Debug\E34_BinarioADecimal.pdb
+C:\Users\Yesica Moreno\source\Repo_EC_S8\E34_BinarioADecimal\E34_BinarioADecimal\bin\Debug\E34_BinarioADecimal.exe.config
+C:\Users\Yesica Moreno\source\Repo_EC_S8\E34_BinarioADecimal\E34_BinarioADecimal\bin\Debug\E34_BinarioADecimal.exe
+C:\Users\Yesica Moreno\source\Repo_EC_S8\E34_BinarioADecimal\E34_BinarioADecimal\bin\Debug\E34_BinarioADecimal.pdb
+C:\Users\Yesica Moreno\source\Repo_EC_S8\E34_BinarioADecimal\E34_BinarioADecimal\obj\Debug\E34_BinarioADecimal.csprojAssemblyReference.cache
+C:\Users\Yesica Moreno\source\Repo_EC_S8\E34_BinarioADecimal\E34_BinarioADecimal\obj\Debug\E34_BinarioADecimal.csproj.CoreCompileInputs.cache
+C:\Users\Yesica Moreno\source\Repo_EC_S8\E34_BinarioADecimal\E34_BinarioADecimal\obj\Debug\E34_BinarioADecimal.exe
+C:\Users\Yesica Moreno\source\Repo_EC_S8\E34_BinarioADecimal\E34_BinarioADecimal\obj\Debug\E34_BinarioADecimal.pdb
