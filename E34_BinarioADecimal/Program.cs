@@ -59,7 +59,7 @@ namespace E34_BinarioADecimal
         }
         public static bool ValidarNumeroBinario(string numero)
         {
-            Regex patron = new Regex("^-?[0-1]+$");
+            Regex patron = new Regex("^[0-1]+$");
             return patron.IsMatch(numero);
         }
     }
